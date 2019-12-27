@@ -34,6 +34,12 @@ h2{
     width: 100%;
 }
 
+.titulo{
+    text-align: right;
+    color: whitesmoke;
+    background: black;
+}
+
 .texto{
     text-align: right;
     color: whitesmoke;
